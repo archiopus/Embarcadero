@@ -17,5 +17,6 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
  Close();
+ //3
 }
 //---------------------------------------------------------------------------
